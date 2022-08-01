@@ -1,0 +1,11 @@
+****************************************************************
+        *                         MOVIE TICKET                         *
+        *       Ticket ID: MI18KOL                                     *
+        *           Movie Name: Mission Impossible                        
+        *           Day:        Friday                   
+        *           Time:       2pm
+                    PG:         PG18           
+        *           User:       LESLY JIKOL                             
+        *                                                              *
+        *       NB:This is non refundable. Thanks for patronizing      *
+        ****************************************************************

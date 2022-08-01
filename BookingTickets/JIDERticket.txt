@@ -1,0 +1,11 @@
+****************************************************************
+        *                         MOVIE TICKET                         *
+        *       Ticket ID: SG18DER                                     *
+        *           Movie Name: Squid Game                        
+        *           Day:        Friday                   
+        *           Time:       2pm
+                    PG:         PG18           
+        *           User:       JIDER                             
+        *                                                              *
+        *       NB:This is non refundable. Thanks for patronizing      *
+        ****************************************************************

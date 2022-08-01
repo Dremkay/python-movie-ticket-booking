@@ -1,0 +1,11 @@
+****************************************************************
+        *                         MOVIE TICKET                         *
+        *       Ticket ID: PE16ETU                                     *
+        *           Movie Name: Pirates                        
+        *           Day:        Saturday                   
+        *           Time:       2pm
+                    PG:         PG16           
+        *           User:       YETU                             
+        *                                                              *
+        *       NB:This is non refundable. Thanks for patronizing      *
+        ****************************************************************
