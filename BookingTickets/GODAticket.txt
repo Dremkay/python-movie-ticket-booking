@@ -1,0 +1,11 @@
+****************************************************************
+        *                         MOVIE TICKET                         *
+        *       Ticket ID: EA13ODA                                     *
+        *           Movie Name: Evan Almighty                        
+        *           Day:        Saturday                   
+        *           Time:       2pm
+                    PG:         PG13           
+        *           User:       GODA                             
+        *                                                              *
+        *       NB:This is non refundable. Thanks for patronizing      *
+        ****************************************************************

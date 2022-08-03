@@ -1,0 +1,11 @@
+****************************************************************
+        *                         MOVIE TICKET                         *
+        *       Ticket ID: SG18IKO                                     *
+        *           Movie Name: Squid Game                        
+        *           Day:        Friday                   
+        *           Time:       2pm
+                    PG:         PG18           
+        *           User:       MIKO                             
+        *                                                              *
+        *       NB:This is non refundable. Thanks for patronizing      *
+        ****************************************************************

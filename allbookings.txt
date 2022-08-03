@@ -1,3 +1,5 @@
 pirates,PE16ETU,yetu,PG16,Saturday,2pm
 squid game,SG18IKO,jiko,PG18,Friday,2pm
 pirates,PE16HHJ,hjhhj,PG16,Saturday,2pm
+squid game,SG18IKO,miko,PG18,Friday,2pm
+evan almighty,EA13ODA,goda,PG13,Saturday,2pm
