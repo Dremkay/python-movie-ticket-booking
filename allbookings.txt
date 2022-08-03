@@ -1,6 +1,3 @@
-squid game,SG18OGI,togi,PG18,Friday,2pm
-squid game,SG18DER,jider,PG18,Friday,2pm
-mission impossible,MI18KOL,lesly jikol,PG18,Friday,2pm
 pirates,PE16ETU,yetu,PG16,Saturday,2pm
 squid game,SG18IKO,jiko,PG18,Friday,2pm
 pirates,PE16HHJ,hjhhj,PG16,Saturday,2pm
